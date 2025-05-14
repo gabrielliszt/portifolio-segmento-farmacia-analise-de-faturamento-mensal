@@ -1,6 +1,8 @@
 📊 Análise de Faturamento Mensal – Python + Pandas
 Este projeto foi desenvolvido com o objetivo de analisar o faturamento bruto e líquido de uma empresa ao longo do tempo, identificando tendências de crescimento, sazonalidade e possíveis quedas nas vendas. A análise foi feita com base em um dataset fictício de vendas, utilizando ferramentas como Pandas e Matplotlib.
 
+Link Kaggle: https://www.kaggle.com/code/gabrielfelipeatt/an-lise-de-faturamento-mensal
+
 🚀 Objetivos
 Calcular o total de faturamento bruto e líquido por mês.
 Medir o crescimento percentual entre os meses.
